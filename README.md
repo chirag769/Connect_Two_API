@@ -1,3 +1,5 @@
+CONTRIBUTORS: a)Shrey-Srivastava21 b)chirag769 c)JHANKAR08
+
 # Connect_Two_API
 
 # Square Connect API Examples
